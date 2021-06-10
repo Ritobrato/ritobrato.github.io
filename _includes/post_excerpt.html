@@ -3,6 +3,11 @@
 <h3>
   <a class="linkFormat" href="{{ post.url }}">{{ post.title }}</a>
 </h3>
+<p class="text-muted">
+  {% if page.date %}
+  {{ page.date | date_to_string }}
+  {% endif %}
+</p>
 <div style="color: #ddd;">
   {{ post.excerpt }}
 </div>
