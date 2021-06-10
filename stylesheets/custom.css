@@ -1,0 +1,57 @@
+html {
+  overflow-x: hidden;
+  background-color: #1b1717;
+}
+
+.siteTitle {
+  color: #6cf;
+  font-size: 1.8rem;
+  text-decoration: none;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.siteTitle:hover {
+  color: #6cf;
+  text-decoration: underline;
+}
+
+.linkNav {
+  color: grey;
+  text-decoration: none;
+}
+
+.linkNav:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbarBox {
+  padding: 5px 4%;
+  background-color: rgb(34, 34, 34);
+  border-color: rgb(8, 8, 8);
+}
+
+.contentBox {
+  font-family: 'Roboto', sans-serif;
+  background-color: #1b1717;
+  padding: 2% 5%;
+}
+
+.footerBox {
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(34, 34, 34);
+  border-color: rgb(8, 8, 8);
+  color: #fff;
+  padding: 2% 5%;
+}
+
+/* Formatting all important links, except those on .md */
+.linkFormat {
+  text-decoration: none;
+  color: #6cf;
+}
+
+.linkFormat:hover {
+  color: #6cf;
+  text-decoration: underline;
+}

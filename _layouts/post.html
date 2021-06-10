@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% include nativeJekyllStyles.html %}
+
+<h2 style="color: #6cf">
+  {{ page.title }}
+  {% if page.date %}
+    <small class="text-muted" style="font-size: 1.1rem;">{{ page.date | date_to_string }}</small>
+  {% endif %}
+</h2>
+<div style="color: #ddd;">
+{{ content }}
+</div>

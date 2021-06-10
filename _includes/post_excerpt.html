@@ -1,0 +1,11 @@
+{% include customStylesheet.html %}
+
+<h3>
+  <a class="linkFormat" href="{{ post.url }}">{{ post.title }}</a>
+</h3>
+<div style="color: #ddd;">
+  {{ post.excerpt }}
+</div>
+<span>
+  <a class="linkFormat" href="{{ post.url }}" title="Keep reading '{{ post.title }}'">. . .</a>
+</span>

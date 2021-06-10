@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %} {{page.title}} | {% endif %} ritobrato.github.io</title>
+
+  {% include customStylesheet.html %}
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Roboto&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+  <header>
+    <nav class="navbar navbar-expand-lg navbarBox">
+      <div class="container-fluid">
+        <a class="siteTitle" href="/">{{site.title}}</a>
+        <!-- <p class="tagline">{{site.tagline}}</p> -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav ms-auto">
+            <!-- <a class="nav-link" href="/">Home</a>
+            <a class="nav-link" href="#">Features</a> -->
+            <a class="linkNav" href="/about">About</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <div class="contentBox">
+    {{content}}
+  </div>
+
+  <footer class="footerBox">
+    <a href="http://creativecommons.org/licenses/by/4.0/deed.en_US">
+      <img alt="Creative Commons License" src="https://licensebuttons.net/l/by/4.0/88x31.png" />
+    </a>
+    Aatmaja is licensed under a <a class="linkFormat" href="http://creativecommons.org/licenses/by/4.0/deed.en_US">Creative Commons Attribution 4.0 International License</a>
+  </footer>
+
+</body>
+
+</html>
