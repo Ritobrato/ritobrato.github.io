@@ -9,7 +9,7 @@ Welcome to my first blogging website ***Aatmaja***. This is my creation and some
 
 The primary motivation for setting up this blog was to allow people, esp students to learn more about life in [IISER TVM][iiser], one of the most beautiful campus in the country! I wanted to start blogging as soon as I stepped in **iiser** but the pandemic struck and really made our lives miserable. Nevertheless, I will start writing soon but before that let me briefly explain all the features of the website
 
-### Features of ~Aatmaja website
+#### Features of ~Aatmaja website
 
 It is quite simple with a dark background. The successive posts will appear on the home page once published. The latest posts will be at the top, followed by the older ones. I will soon add a comment section.
 
