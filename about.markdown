@@ -14,8 +14,7 @@ It feels great to have my first ***blogging website*** up and ready! I will be w
 
 So, if you wanna reach out to me or maybe hang out, DM me anywhere among [facebook][fb] or [twitter][tw] or [instagram][insta]
 
-<!-- {% include images/about_img.html %} -->
-![my image]({{site.baseurl}}/files/images/me.JPG)
+{% include images/about_img.html %}
 
 ### See ya around ...
 
