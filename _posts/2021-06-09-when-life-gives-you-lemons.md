@@ -19,20 +19,14 @@ I was in the microbiology lab with a friend plating the culture media. When a pr
 #### My tango with coding
 
 I had ample time to fool around because online classes were not trending immediately. I chose to dive into coding with the notion that it may come in handy in bioinformatics courses. I googled what to learn, how to learn and found that [Python][anaconda] is a showstopper. The internet is replete with information and I made good headway, of course filtering out the useless. Python is indeed very cool; the codes are shorter and snappier than older languages. The `PEP8` rules enforce sleek formatting of codes. I was having a great time for a while.  Soon it struck me, I was writing or rather learning how to write pure programs with limited immediate use.
-[anaconda]: https://www.anaconda.com/
 
 Once I had a good grip on the basics and could solve many problems, I decided to put my skills to some use. The idea of blogging was at the back of my mind for some time and today one can build a custom personal blog easily with all the tools from **Google**, **WordPress**, **Wix** etc. However, I wanted to challenge myself - ***What if I can build my personal blog myself from scratch?*** Now I was in a different ball game altogether, one needs to understand and enforce multiple languages to be able to do that! Once again **Google baba** came to my rescue, it was mind-boggling to handle thousands of materials and videos on the internet. Eventually, I came across [MDN Web docs][mdn] and [W3 Schools][w3school], and there began my journey of learning web development.
-[mdn]: https://developer.mozilla.org/en-US/
-[w3school]: https://www.w3schools.com/
 
 While the end of the final term of my [college][rkmv] knocked at the door, all the interviews for my post-graduation were delayed. This made me quite anxious; never achieving my dreams was a constant threat I had to battle. Nevertheless, I found solace in understanding the languages for web development one at a time. **HTML** is relatively easy to understand and enforce, a cakewalk for most. Once structuring a webpage was clear, I moved on to styling it i.e., learning **CSS**. Understanding basic CSS is also fairly straight forward but enforcing complex styles gets more tricky! Post that a webpage needs functionality, which is handled by **JavaScript**. Now my programming concepts were put to a rigorous test.
-[rkmv]: http://vidyamandira.ac.in/
 
 #### When the going gets tough ...
 
 While I was figuring out JavaScript, the dates of online interviews were announced by [NBRC][nbrc] and [IISER TVM][iisertvm]. This somewhat reduced my trepidation, and I focused more on preparing for the interviews. I was once again busy but not with coding this time 😅
-[nbrc]: http://www.nbrc.ac.in/newweb/
-[iisertvm]: https://www.iisertvm.ac.in/
 
 The first round of interview at NBRC came and went by; it was fine and better than expected. Subsequently, the first interview for IISER TVM arrived, and it didn't go as expected. The 2nd round was horrible (so I assumed); I fumbled a lot. I was sure that I stood no chance at all, and this didn't make me sad, rather it made me angry and irritable. The interview for 2nd round at NBRC was delayed, and this further intensified my irritation.
 
@@ -51,3 +45,10 @@ I picked up the call and heard his "**Hello... hello... hello**" on the other en
 **Dev:** They published it last night, I thought you saw it already!
 
 I threw open my old laptop in a flick, switched it on, opened the website and found the list. There it was on the screen, my roll no.: ***....00222***. Mom came in and rebuked me for not cleaning the room well enough, but it was music to my ears!
+
+[anaconda]: https://www.anaconda.com/
+[mdn]: https://developer.mozilla.org/en-US/
+[w3school]: https://www.w3schools.com/
+[rkmv]: http://vidyamandira.ac.in/
+[nbrc]: http://www.nbrc.ac.in/newweb/
+[iisertvm]: https://www.iisertvm.ac.in/
