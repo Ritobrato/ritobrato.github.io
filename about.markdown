@@ -16,10 +16,6 @@ So, if you wanna reach out to me or maybe hang out, DM me anywhere among [facebo
 
 {% include images/about_img.html %}
 
-### Another me
-
-![this is an image](/files/images/me.JPG)
-
 ### See ya around ...
 
 [iisertvm]: https://www.iisertvm.ac.in/
