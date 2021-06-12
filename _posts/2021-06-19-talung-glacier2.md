@@ -5,6 +5,7 @@ date: 2021-06-19 22:51:10 +0530
 categories: adventure
 tag: adventure
 permalink: /:categories/:year/:month/:day/:title
+comments: true
 published: false
 ---
 
