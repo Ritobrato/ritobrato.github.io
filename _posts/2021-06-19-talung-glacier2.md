@@ -6,7 +6,6 @@ categories: adventure
 tag: adventure
 permalink: /:categories/:year/:month/:day/:title
 comments: true
-published: false
 ---
 
 It snowed heavily that night, I closed my eyes and heard the faint clanging of bells tied around a yak's neck. The wind howled outside, and I could hear the kitchen tent flapping. The more experienced teammates assured me that all would be well the next morning. I tried to stay awake but soon fell into a slumber, that night I dreamt us making our way through a dense jungle that never seemed to end.
