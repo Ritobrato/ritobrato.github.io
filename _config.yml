@@ -29,7 +29,7 @@ github_username:  Ritobrato
 
 # For author name
 author: Ritobrato
-
+# markdown processor
 markdown: kramdown
 
 # Build settings

@@ -9,14 +9,24 @@ comments: true
 published: false
 ---
 
-Hey there! Did you enjoy reading **Beyond Goecha La, Part 1**? Be sure to *Like*, *Share* and put down your valuable *Comments*. If you have not, read it [here][talung1], before moving on to the 2nd part.  
+It snowed heavily that night, I closed my eyes and heard the faint clanging of bells tied around a yak's neck. The wind howled outside, and I could hear the kitchen tent flapping. The more experienced teammates assured me that all would be well the next morning. I tried to stay awake but soon fell into a slumber, that night I dreamt us making our way through a dense jungle that never seemed to end.
 
-### A Perilous trail
+> Ten indomitable members of the **Berhampur Adventure Club (BAC)** from Murshidabad, West Bengal venture out to an unknown and sacred place of Sikkim named **Yangiotak**, adjacent to the **Talung glacier**. What happens next ? *Continue reading to find out!*
 
-The following morning, we set off for **Thansing**, awesome weather allowed full view of the mountains around. On the way a long descent led us to a river Prek chu, to a place called Khokchurang. After a short break at Khokchurang we crossed the river, negotiated a boulder zone and entered a thick forest. The last leg of the trek for the day was a long and gradual ascent on a beautiful trail along the river to Thansing. The temperatures dropped significantly at Thansing and we layered up as we watched the valley, and sipped hot tea!
+## Dzongri to Thansing
 
-On 28th Oct we crossed several icy streams, the clear skies heralded full view of *Pandim* and *Tin-chen-khang* till *Zemathang*, our next campsite. After a smooth trail through Lamuney there was a laborious ascent from Samiti Lake. We spotted 9 Ibex on the opposite bank of the tributary that feeds the Lake. After the ascent we reached a view point from where, Onglakthang glacier, Kabru Dome, Forked peak were in full view to our left. We traversed a vast expanse of a dried up river akin to a sandy desert, Chemathang (Chema - sand, thang - a plain). This is the flat, sandy floor of an old lake at 15,250 ft beneath the great west wall of Pandim. From the first view point there exists no trail and we relied heavily on our expert sherpa cook Marie to find a campsite. Marie went ahead on a recce and we soon lost him in the vast wilderness of the valley. The place was abound with multiple footprints and excreta of leopards and other wildlife; as daylight faded we grew more tense with every passing minute. We were hopelessly lost but fortunately our LO Lakpa spotted the only stream and we approached it to find Marie prowling around!
+The following morning, we set off for **Thansing**, awesome weather allowed full view of the mountains around. On the way a long descent led us to the river Prek chu, the place is known as *Khokchurang*. The team took a break, I was too tired to move, and so laid down my ruksack and opened my shoes and socks. Legs stretched out, I sat on the grassy river bed of Khokchurang under the sun. A small trekker's hut on my right, a river gushing by my left and dense forest on the opposite bank makes up the cozy little place. After a tiring trek from Dzongri, the short break made me feel sleepy, the soft grass, the warmth of the sun, felt heavenly. We left Khokchurang after the stopover, crossed the river, negotiated a boulder zone and entered the thick forest. As we made our way further in, all the noise subsided, the crashing of the river ebbed away; the pine trees with their mossy overgrown branches blocked out the sunlight. It felt as if we were walking on an alien planet, where the inhabitants were shy and never showed up, but they watched us closely. The last leg of the trek for that day was a long and gradual ascent on the jungle trail by the river to Thansing.
 
-By nightfall we had set up camp in Zemathang and held a meeting to discuss plans for the final leg of the trek. The cold and difficult terrain had taken its toll, and few of our team members were suffering from altitude sickness. The day's ordeal was intimidating and I was silent, unsure whether I would be able to complete the trek. After the brief meeting our team leader sorted out the fittest 2 among us who would continue. Zemathang as we found out houses leopards and other wild animals, so we observed certain safety practices at night.
+![ibex](../files/images/beyond_goechala/dzongri.JPG)
+
+*Campsite a Dzongri valley, yak huts visible in the distance*
+
+The route from Dzongri to Khokchurang, descends steeply into a gorge. As the elevation changes, the weather becomes warmer. While Dzongri had no vegetation other than rhododendron shrubs, khokchurang was surrounded by dense pine forests. As we climbed higher once again, a chilly wind rushed in rattling the tree branches. Lack of sunlight immediately made the place colder, and our hands were numb often. As we approached Thansing, the vegetation gradually receded and the temperature dipped, idle hands soon became numb and it was increasingly difficult to negotiate the treacherous terrain.
+
+![thansing](../files/images/beyond_goechala/thansing2.JPG)
+
+*On our way to Thansing from Khokchurang*
+
+Thansing is a massive, undulated valley at an altitude of *12,900 ft.* with almost no vegetations other than some juniper, rhododendron and thorny shrubs. The valley with the river by one side stretches for miles up to *Lamuney*, surrounded by several snow-clad peaks. By 4:00 P.M. we reached Thansing, it turned very windy and the weather went south. There was a yak hut in Thansing and a few other teams camping. Temperature nosedived by the time we set up our tents, the wind chill made it worse. We layered up as we watched the sun setting over the valley, and sipped hot tea. Dinner was cooked and we retired early after a glorious albeit tiring day.
 
 *To be continued...*
