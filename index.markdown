@@ -5,7 +5,7 @@
 layout: default
 ---
 
-{% site.description %}
+{% include home_description.html %}
 
 {% for post in site.posts %}
 {% include post_excerpt.html %}
