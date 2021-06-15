@@ -21,7 +21,9 @@
 title: ~Aatmaja
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my creation, my child. Thus the name Aatmaja.
+  Hello World! Welcome to ~Aatmaja, a weekly blog. New posts
+  will be published every Saturday evening. Beyond Goecha La,
+  Part 2 coming up, stay tuned!!
 baseurl: "/ritobrato.github.io" # the subpath of your site, e.g. /blog
 url: "https://github.com/Ritobrato" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Ritochatt1
