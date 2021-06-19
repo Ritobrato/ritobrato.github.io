@@ -22,4 +22,4 @@ The next day, after a steep climb from Phedang we reached *Deorali Top*; a place
 
 *Snowing in the afternoon at Dzongri valley!*
 
-*To be continued...*
+***To be continued...***

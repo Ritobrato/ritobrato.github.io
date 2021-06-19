@@ -1,6 +1,6 @@
 ---
 title: Beyond Goecha La | Part 2
-date: 2021-06-19 22:51:10 +0530
+date: 2021-06-19 16:38:00 +0530
 categories: adventure
 tag: adventure
 permalink: /:categories/:year/:month/:day/:title/
@@ -22,7 +22,7 @@ The following morning, we set off for **Thansing**, awesome weather allowed full
 
 *Enroute to Khokchurang, before descending into the deep gorge!*
 
-The team took a break, I was too tired to move, and so laid down my rucksack and opened my shoes and socks. Legs stretched out, I sat on the grassy river bed of Khokchurang under the sun. A small trekker's hut on my right, a river gushing by my left and dense forest on the opposite bank makes up the cosy little paradise. After a tiring trek from Dzongri, the short break made me feel sleepy, the soft grass, the warmth of the sun, felt divine. We left Khokchurang after the stopover, crossed the river, negotiated a boulder zone and entered the thick forest. As we made our way further in, silence ensued, the crashing of the river ebbed away; the pine trees with their mossy overgrown branches blocked out the sunlight. It felt as if I was a traveller on an alien planet, who chose the path least treaded. Where the inhabitants were shy; neither they showed up nor made their presence evident, but watched us intently from behind the undergrowth. The last leg of the trek for that day was a long and gradual ascent through the pine forest along the river to Thansing. As we climbed higher once again, a chilly wind rushed in rattling the tree branches. Lack of sunlight immediately made the place colder, and our hands were numb often. As we approached Thansing, the vegetation gradually receded and the temperature dipped again, idle hands soon became numb making it increasingly difficult to negotiate the treacherous terrain.
+The team took a break in Khokchurang, I was too tired to move, and so laid down my rucksack and opened my shoes and socks. Legs stretched out, I sat on the grassy river bed of Khokchurang under the sun. A small trekker's hut on my right, a river gushing by my left and dense forest on the opposite bank makes up the cosy little paradise. After a tiring trek from Dzongri, the short break made me feel sleepy, the soft grass, the warmth of the sun, felt divine. We left Khokchurang after the stopover, crossed the river, negotiated a boulder zone and entered the thick forest. As we made our way further in, silence ensued, the crashing of the river ebbed away; the pine trees with their mossy overgrown branches blocked out the sunlight. It felt as if I was a traveller on an alien planet, who chose the path least treaded. Where the inhabitants were shy; neither they showed up nor made their presence evident, but watched us intently from behind the undergrowth. The last leg of the trek for that day was a long and gradual ascent through the pine forest along the river to Thansing. As we climbed higher once again, a chilly wind rushed in rattling the tree branches. Lack of sunlight immediately made the place colder, and our hands were numb often. As we approached Thansing, the vegetation gradually receded and the temperature dipped again, idle hands soon became numb making it increasingly difficult to negotiate the treacherous terrain.
 
 ![Onwards to thansing](/files/images/beyond_goechala/k2.JPG)
 
@@ -40,4 +40,4 @@ We layered up as we watched the sun setting over the valley, and sipped hot tea.
 
 *The magnifiscent Kanchendzunga from Thansing valley!*
 
-*To be continued…*
+***To be continued . . .***
