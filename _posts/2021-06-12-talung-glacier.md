@@ -19,7 +19,7 @@ The next day we set out for *Phedang*. Since we gained altitude rapidly, we had 
 
 The next day, after a steep climb from Phedang we reached *Deorali Top*; a place notorious for furious and bitingly cold winds. At the top we were greeted by the charming sight of a 270 degree panorama of snow-clad peaks! It drizzled while we made our way to **Dzongri valley (13200 ft)**. We pitched the tents and after a short tea break went off for height gaining exercise. We climbed up the windy and highest top of Dzongri valley, and the vast stretches of wilderness became visible surrounded by snow-clad peaks. *Chortens*, (prayer flags) and *mani walls* (inscription on religious stones) abound, Dzongri is where the wise old lamas stay for many weeks to pray and meditate, whilst on a pilgrimage. From the holy meadows, the entire Singalila ridge is visible round to the *Chumbab la* and the *Kang la*. In the evening it snowed, at first it appeared like powder puff but it intensified in a short while, and soon our multi-colored tents turned white!
 
-![an image](/files/images/beyond_goechala/dzongri_snow.JPG)
+<img src="/files/images/beyond_goechala/dzongri_snow.JPG" alt="img" width="60%" />
 
 *Snowing in the afternoon at Dzongri valley!*
 
