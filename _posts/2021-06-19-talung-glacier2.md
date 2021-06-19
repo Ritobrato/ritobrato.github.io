@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Beyond Goecha La | Part 2
-date: 2021-06-18 22:51:10 +0530
+date: 2021-06-19 22:51:10 +0530
 categories: adventure
 tag: adventure
 permalink: /:categories/:year/:month/:day/:title/
 comments: true
-published: false
 ---
 
 It snowed heavily that night, I closed my eyes and could hear the faint clanging of bells as yaks grazed on the valley, a rustic musical tribute to the Himalayas. The wind howled outside, and the kitchen tent started flapping. The more experienced teammates assured me that all would be well by next morning. I tried to stay awake but soon fell into a slumber, that night I dreamt us making our way through a dense jungle, tall trees with their mossy branches blocked all sunlight, the eerie silence of the jungle was overpowered with crickets’ buzzing and birds chirping merrily. The narrow trail through the jungle never seemed to end, and I walked on in a trance determined to uncover the alluring secrets it possessed.

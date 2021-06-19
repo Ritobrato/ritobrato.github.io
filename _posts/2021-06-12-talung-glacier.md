@@ -4,7 +4,7 @@ title: Beyond Goecha La, Part 1
 date: 2021-06-12 07:58:10 +0530
 categories: adventure
 tag: adventure
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories/:year/:month/:day/:title/
 comments: true
 ---
 
