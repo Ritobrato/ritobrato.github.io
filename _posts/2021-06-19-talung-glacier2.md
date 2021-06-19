@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beyond Goecha La | Part 2
-date: 2021-06-19 22:51:10 +0530
+date: 2021-06-18 22:51:10 +0530
 categories: adventure
 tag: adventure
 permalink: /:categories/:year/:month/:day/:title
@@ -10,7 +10,9 @@ comments: true
 
 It snowed heavily that night, I closed my eyes and could hear the faint clanging of bells as yaks grazed on the valley, a rustic musical tribute to the Himalayas. The wind howled outside, and the kitchen tent started flapping. The more experienced teammates assured me that all would be well by next morning. I tried to stay awake but soon fell into a slumber, that night I dreamt us making our way through a dense jungle, tall trees with their mossy branches blocked all sunlight, the eerie silence of the jungle was overpowered with crickets’ buzzing and birds chirping merrily. The narrow trail through the jungle never seemed to end, and I walked on in a trance determined to uncover the alluring secrets it possessed.
 
-{% include images/talung_glacier/beyond_goechala2/img1.html %}
+![this is an img](/files/images/beyond_goechala/dzongri.JPG)
+
+<!-- {% include images/talung_glacier/beyond_goechala2/img1.html %} -->
 
 > Ten indomitable members of the **Berhampur Adventure Club (BAC)** from Murshidabad, West Bengal venture out to an unknown and sacred place of Sikkim named **Yangiotak**, adjacent to the **Talung glacier**. What happens next? *Continue reading to find out!*
 
