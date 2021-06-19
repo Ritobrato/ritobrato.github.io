@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Welcome to Aatmaja!"
 date:   2021-06-09 21:09:08 +0530
 categories: aatmaja introduction

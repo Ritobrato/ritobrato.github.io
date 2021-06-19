@@ -1,11 +1,9 @@
 ---
-layout: post
 title: When life gives you lemons
 date: 2021-06-09 22:30:10 +0530
 categories: myStory
 tag: myStory
 permalink: /:categories/:year/:month/:day/:title
-comments: true
 ---
 
 **When life gives you lemons, make lemonade** is the proverb of the year since 2020. No, I don't wish to prove that wrong. That is quite right actually, do make lemonades. In fact, I love lemonades 😂😂

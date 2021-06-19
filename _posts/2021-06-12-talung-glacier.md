@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Beyond Goecha La, Part 1
 date: 2021-06-12 07:58:10 +0530
 categories: adventure
 tag: adventure
 permalink: /:categories/:year/:month/:day/:title/
-comments: true
 ---
 
 In the first blog post, I expressed my love for the mountains. I had an opportunity to join a team that set off to explore the unknown mountainous terrains of Yangiotak. In this series of posts I will try to pen down my experiences about the trail, the perils and the beauty of an adventure in the mountains of West-Sikkim. *Stay tuned!*
