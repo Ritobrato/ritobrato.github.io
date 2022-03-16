@@ -35,5 +35,5 @@ By nightfall we had set up camp in Zemathang followed by a meeting to discuss pl
 
 *To be continued...*
 
-[morraine zone]: https://www.nationalgeographic.org/encyclopedia/moraine/
-[crevasses]: https://www.nationalgeographic.org/encyclopedia/crevasse/
+[morraine]: https://www.nationalgeographic.org/encyclopedia/moraine/
+[crevasse]: https://www.nationalgeographic.org/encyclopedia/crevasse/
