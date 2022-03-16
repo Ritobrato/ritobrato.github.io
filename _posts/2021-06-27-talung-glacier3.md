@@ -9,7 +9,7 @@ comments: true
 
 On 28th of October we crossed several icy streams, the clear skies heralded full view of the *Pandim* and *Tin-chen-khang* peaks, that towered over us till **Zemathang**, our next campsite. The trail led us through Lamuney to the *Samiti lake*, the greenish blue hue of the water awed us! Indeed it is amazing how beautifully nature can shape the most mundane, if left undisturbed. While we admired the lake, we spotted about nine Ibex scampering about the massive rocks on the opposite bank of the tributary feeding the Lake. After a stopover we trudged on, a laborious ascent from the lake led us to the **first view point**. *Onglakthang glacier*, *Kabru Dome*, *Forked peak* were in full view to our left.
 
-<img src="/files/images/beyond_goechala/ibex.JPG" alt="img" width="60%" />
+<img src="/files/images/beyond_goechala/Ibex.JPG" alt="img" width="60%" />
 
 *Ibex scampering off the rocks near Samiti lake.*
 
