@@ -1,6 +1,6 @@
 ---
 title: Beyond Goecha La | Part 3
-date: 2021-06-27 09:43:00 +0530
+date: 2022-03-16 15:11:30 +0530
 categories: adventure
 tag: adventure
 permalink: /:categories/:year/:month/:day/:title/
